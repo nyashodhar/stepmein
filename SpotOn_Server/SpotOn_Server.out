@@ -1,0 +1,63 @@
+INFO : SPArgCollection.getCallableStatement() SQL: {call Prc_Ack_Business_Provider_CheckIn(?,?,?,?)}
+INFO : DBConnectString: jdbc:sqlserver://127.0.0.1:1434;databaseName=BusinessDB
+ERROR: The statement did not return a result set.
+INFO : SPArgCollection.getCallableStatement() SQL: {call Prc_Ack_Business_Provider_CheckIn(@EmployerID=1,@ProviderID=1,@BusinessID=1,@CheckInAckState=A)}
+INFO : DBConnectString: jdbc:sqlserver://127.0.0.1:1434;databaseName=BusinessDB
+ERROR: The statement did not return a result set.
+ERROR: C:\Users\kunal\Documents\NetBeansProjects\SpotOn_Server\<user><email value="a@a.com" \><password value="abcd1234" \><type value="customer" \><\user> (The filename, directory name, or volume label syntax is incorrect)
+ERROR: 
+INFO : /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : user
+INFO : Childs : 
+INFO : email
+INFO : password
+INFO : type
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : email 
+INFO : password 
+INFO : type 
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : email 
+ERROR: 
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : email null
+ERROR: 
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+ERROR: The element type "type" must be terminated by the matching end-tag "</type>".
+ERROR: cvc-complex-type.2.1: Element 'email' must have no character or element information item [children], because the type's content type is empty.
+ERROR: cvc-complex-type.2.1: Element 'email' must have no character or element information item [children], because the type's content type is empty.
+ERROR: cvc-complex-type.2.1: Element 'email' must have no character or element information item [children], because the type's content type is empty.
+ERROR: cvc-complex-type.2.1: Element 'email' must have no character or element information item [children], because the type's content type is empty.
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+ERROR: 
+INFO : Validated xmlMessage by /C:/Users/kunal/Documents/NetBeansProjects/SpotOn_Server/build/web/WEB-INF/classes/Spoton/Server/ValidationSchemas/UserRegister.xsd
+INFO : email a@a.com
+INFO : password abcd1234
+INFO : type customer
+ERROR: Relative path in absolute URI: http://localhost:8084SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+ERROR: Cannot write output after reading input.
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : XML Message <registerResp><status value="true"/></registerResp>
+INFO : /SpotOn_Server/User_Register
+INFO : http://localhost:8084/SpotOn_Server/User_Register
+INFO : XML Message <registerResp><status value="true"/></registerResp>
+INFO : <userpolling><uName value="a@a.com" /><sessionID value = "f4f42888-4cfe-4eba-9ead-930f0a1998a4" /></userpolling>
+ERROR: Connection timed out: connect
